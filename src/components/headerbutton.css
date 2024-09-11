@@ -1,0 +1,25 @@
+#header-button{
+    background: #EFF9F91C;
+    color: #fff;
+    font-size: 24px;
+    border: none;
+}
+#header-button:hover{
+    background-color: #329B9F;
+    color: white;
+}
+#auth-button{
+    color: #fff;
+    font-size: 20px;
+    position: fixed;
+    left: 2%;
+    top: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #546A9E;
+    border-color: transparent;
+    height: 44px;
+    width: 44px!important;
+    min-width: 10px!important;
+}

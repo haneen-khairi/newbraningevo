@@ -1,0 +1,9 @@
+#auth-right{
+    background-color: #38ACB1!important;
+    height: 100vh;
+    width: 50%;
+    
+}
+#rememberMe + span{
+    border-color: #0d1864;
+}
